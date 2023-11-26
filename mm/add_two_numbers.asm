@@ -1,0 +1,7 @@
+MOV AX, 2H;
+MOV BX, 3H;
+ADD AX, BX;
+MOV 09H;
+INT 21H;
+MOV AH, 4CH;
+INT 21H;     

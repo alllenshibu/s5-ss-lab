@@ -1,0 +1,6 @@
+*.exe
+*.out
+ss/common/intermediate.txt
+ss/common/object.txt
+ss/common/symtab.txt
+**/*/build
